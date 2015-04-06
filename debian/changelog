@@ -1,0 +1,24 @@
+ros-indigo-concert-software-common (0.0.3-0trusty) trusty; urgency=high
+
+  * re name parameter field
+  * update parameter format
+  * add web video server
+  * Contributors: Jihoon Lee
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Sun, 05 Apr 2015 15:00:00 -0000
+
+ros-indigo-concert-software-common (0.0.2-0trusty) trusty; urgency=high
+
+  * install software and launch directory
+  * Contributors: Jihoon Lee
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Sun, 08 Feb 2015 15:00:00 -0000
+
+ros-indigo-concert-software-common (0.0.1-0trusty) trusty; urgency=high
+
+  * world canvas as software
+  * Contributors: Jihoon Lee
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Sun, 08 Feb 2015 15:00:00 -0000
+
+
