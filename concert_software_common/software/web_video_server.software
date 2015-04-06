@@ -1,0 +1,10 @@
+name: Web Video Server
+description: Streams video via http
+author: Jihoon Lee
+launch: concert_software_common/web_video_server.launch
+max_count: -1
+parameters:
+  - name: address
+    value: localhost
+  - name: port
+    value: 8080 
