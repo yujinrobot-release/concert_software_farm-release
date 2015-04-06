@@ -1,5 +1,0 @@
-name: World Canvas
-description: World canvas server
-author: Jorge Santos
-launch: concert_software_common/world_canvas_server.launch
-max_count: -1
