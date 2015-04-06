@@ -1,0 +1,12 @@
+Source: ros-indigo-concert-software-farm
+Section: misc
+Priority: extra
+Maintainer: Jihoon Lee <jihoonlee.in@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://wiki.ros.org/concert_software_farm
+Standards-Version: 3.9.2
+
+Package: ros-indigo-concert-software-farm
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-concert-software-common
+Description: concert software farm meta package
