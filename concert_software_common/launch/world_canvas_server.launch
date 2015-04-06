@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="world_canvas_server" type="world_canvas_server" name="world_canvas_server">
+  </node>
+</launch>
